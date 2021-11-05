@@ -1,8 +1,8 @@
 ### Dear All, 👋
 
-'''
+```
 Sou Data Analyst aspirante à Data Scientist trabalhando há 9 anos com dados. Sou da geração de analistas "ratos" no Excel que usavam VBA para contas básicas e dashboards que quando abertos maximizavam sozinhos. 
-'''
+```
 
 
 
