@@ -1,4 +1,13 @@
-### Hi there 👋
+### Dear All, 👋
+
+'''
+Sou Data Analyst aspirante à Data Scientist trabalhando há 9 anos com dados. Sou da geração de analistas "ratos" no Excel que usavam VBA para contas básicas e dashboards que quando abertos maximizavam sozinhos. 
+'''
+
+
+
+
+
 
 <!--
 **claudioviniciuso/claudioviniciuso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
