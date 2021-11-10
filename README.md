@@ -1,8 +1,31 @@
 ### Dear All, 👋
 
+### Quem sou
+
+#### Claudio Vinicius Oliveira
+
+>Sou Especialista de Dados Senior com foco em Data Visualization e aspirante à Cientista de Dados nas horas vagas. Trabalho há 9 anos com dados e sou da geração de analistas "ratos" no Excel que usavam VBA para contas básicas e dashboards que quando abertos maximizavam sozinhos. Neste Github você encontrará os meus projetos pessoais/profissionais com o objetivo de contribuir na comunidade de dados.
+
+**Formação:**
+
+* Bacharel em Admnistração
+* Especialização em Data Science pela Anhembi Morumbi
 ```
-Sou Data Analyst aspirante à Data Scientist trabalhando há 9 anos com dados. Sou da geração de analistas "ratos" no Excel que usavam VBA para contas básicas e dashboards que quando abertos maximizavam sozinhos. 
+Bem vindxs!
 ```
+
+
+
+
+### Projetos
+
+* [Radar Black Friday]():
+  * **Breve Descrição:** Projeto com o objetivo de coletar preço de produtos variados durante 30 dias e avaliar as lojas/produtos que tiveram a maior redução de preço na BlackFriday ou se as lojas aumentaram os preços antes do evento. 
+  * **Processos:** Web Scraping Python + Azure SQL Server + Power BI
+  * **Linguagens e Ferramentas:** Jupyter Notebook, Azure SQL Server, Microsoft Power BI, Python, SQL, DAX, Linguagem M.
+  * **Status Atual:** Em Andamento
+
+
 
 
 
