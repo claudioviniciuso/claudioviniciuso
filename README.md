@@ -6,6 +6,8 @@
 
 >Sou Especialista de Dados Senior com foco em Data Visualization e aspirante à Cientista de Dados nas horas vagas. Trabalho há 9 anos com dados e sou da geração de analistas "ratos" no Excel que usavam VBA para equações básicas e dashboards que quando abertos maximizavam sozinhos. Neste Github você encontrará os meus projetos pessoais/profissionais com o objetivo de contribuir na comunidade de dados.
 
+Baiano com Orgulho | Aproveitando o Home Office e atualmente morando em Salvador | Jiu Jitsu como esporte e terapia | Apaixonado por Dados e principalmente por Desafios
+
 **Formação:**
 
 * Bacharel em Admnistração
