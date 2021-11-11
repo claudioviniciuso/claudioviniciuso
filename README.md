@@ -8,9 +8,9 @@
 
 Baiano com Orgulho | Aproveitando o Home Office e atualmente morando em Salvador | Jiu Jitsu como esporte e terapia | Apaixonado por Dados e principalmente por Desafios
 
-linkedin: linkedin.com/in/claudiovosantos
-whatsapp: (71) 991477644
-Minha empresa: gooruconsultoria.com.br
+linkedin: linkedin.com/in/claudiovosantos<br>
+whatsapp: (71) 991477644<br>
+Minha empresa: gooruconsultoria.com.br<br>
 
 **Formação:**
 
