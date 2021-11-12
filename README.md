@@ -25,7 +25,7 @@ Bem vindxs!
 
 ### Projetos
 
-* [Radar Black Friday]():
+* [Radar Black Friday](https://github.com/claudioviniciuso/radarBlackFriday):
   * **Breve Descrição:** Projeto com o objetivo de coletar preço de produtos variados durante 30 dias e avaliar as lojas/produtos que tiveram a maior redução de preço na BlackFriday ou se as lojas aumentaram os preços antes do evento. 
   * **Processos:** Web Scraping Python + Azure SQL Server + Power BI
   * **Linguagens e Ferramentas:** Jupyter Notebook, Azure SQL Server, Microsoft Power BI, Python, SQL, DAX, Linguagem M.
