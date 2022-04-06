@@ -10,7 +10,7 @@ Baiano com Orgulho | Aproveitando o Home Office e atualmente morando em Salvador
 
 linkedin: linkedin.com/in/claudiovosantos<br>
 whatsapp: (71) 991477644<br>
-Minha empresa: gooruconsultoria.com.br<br>
+twitch: https://www.twitch.tv/data_claudio/about
 
 **Formação:**
 
