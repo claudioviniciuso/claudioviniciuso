@@ -4,31 +4,28 @@
 
 #### Claudio Vinicius Oliveira
 
->Sou Especialista de Dados Senior com foco em Data Visualization e aspirante à Cientista de Dados nas horas vagas. Trabalho há 9 anos com dados e sou da geração de analistas "ratos" no Excel que usavam VBA para equações básicas e dashboards que quando abertos maximizavam sozinhos. Neste Github você encontrará os meus projetos pessoais/profissionais com o objetivo de contribuir na comunidade de dados.
+>Com uma trajetória de mais de 10 anos no universo dos dados, me especializei em transformar complexidades em soluções inovadoras. Sou Especialista de Dados, graduado em Administração com uma especialização em Data Science pela Anhembi Morumbi.
+Atualmente, lidero a Gooru Data Solutions, uma empresa que fundei com a missão de entregar soluções de dados eficientes, práticas e adaptadas às necessidades específicas de cada cliente.
 
-Baiano com Orgulho | Aproveitando o Home Office e atualmente morando em Salvador | Jiu Jitsu como esporte e terapia | Apaixonado por Dados e principalmente por Desafios
+Data Analyst | Power BI | Data Engineer | Data Scientist | Python | Airflow 
 
 linkedin: linkedin.com/in/claudiovosantos<br>
-whatsapp: (71) 991477644<br>
-twitch: https://www.twitch.tv/data_claudio/about
+whatsapp: (11) 99954-2205<br>
+
 
 **Formação:**
-
 * Bacharel em Admnistração
 * Especialização em Data Science pela Anhembi Morumbi
 ```
-Bem vindxs!
+Bem vindos!
 ```
 
 
+### Projeto Atual
 
-
-### Projetos
-
-* [Radar Black Friday](https://github.com/claudioviniciuso/radarBlackFriday):
-  * **Breve Descrição:** Projeto com o objetivo de coletar preço de produtos variados durante 30 dias e avaliar as lojas/produtos que tiveram a maior redução de preço na BlackFriday ou se as lojas aumentaram os preços antes do evento. 
-  * **Processos:** Web Scraping Python + Azure SQL Server + Power BI
-  * **Linguagens e Ferramentas:** Jupyter Notebook, Azure SQL Server, Microsoft Power BI, Python, SQL, DAX, Linguagem M.
+* [Worker Analyzer](https://github.com/claudioviniciuso/workeranalyzer):
+  * **Breve Descrição:** Construção de uma biblioteca que auxilie no gerenciamento e a monitoramento de pipeline de dados coletando métricas e sumarizando resultados.
+  * **Linguagens e Ferramentas:** Python, Airflow
   * **Status Atual:** Em Andamento
 
 
